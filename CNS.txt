@@ -85,3 +85,28 @@ It always works with pop3-Post office protocol-helps clients synchronize mails.
 
 ________________________________________________________________________________________________________
 
+
+What is the TCP protocol?
+
+TCP or TCP/IP is the Transmission Control Protocol/Internet Protocol.
+It is a set of rules that decides how a computer connects to the Inernet and how to transmit the data over the network.
+It creates a virtual network when more than one computer is connected to the network.
+
+The TCP features are:
+1. Number Sysrem: TCP software keeps track of segment-which has two fields called the sequence number and the acknowledgement number
+2. Error Control
+
+_________________________________________________________________________________________________________
+
+
+Descrive the TCP/IP reference model and define 4 different layers of the TCP/IP reference model.
+
+TCP/IP is a compressed version of OSI model with only 4 layers.
+The name of this model is based on 2 standard protocols used i.e., TCP(Transmission Control Protocol) and IP(Internet Protocol)
+
+Layers of TCP/IP:
+
+Link: Decides which link such as serial lines or classic Ethernet must be used to meet the needs of the connectionless internet layer.
+Internet: Holds architecture together. Delivers IP packets supposed to deliver.
+Transport: Same as OSI transport layer. Enables Peer entities on the network to carry on conversation
+Application: Contains all the higher level protocols.
