@@ -110,3 +110,11 @@ Link: Decides which link such as serial lines or classic Ethernet must be used t
 Internet: Holds architecture together. Delivers IP packets supposed to deliver.
 Transport: Same as OSI transport layer. Enables Peer entities on the network to carry on conversation
 Application: Contains all the higher level protocols.
+
+	|=== Link		HTTP	SMTP	RTP	DNS -------|
+	|							   |
+	|=== Transport			TCP		UDP -------|
+Layers 	|							   |===> Protocols
+	|=== Internet			IP		ICMP ------|
+	|							   |
+	|=== Link		DSL	SONET	802.11	ETHERNET --|
