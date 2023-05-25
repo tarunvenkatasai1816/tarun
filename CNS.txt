@@ -51,3 +51,7 @@ ________________________________________________________________________________
 
 
 What is socket in Networking?
+
+A socket is a software structure that allows for communication between two or more programs on the same or different machines within a network node.
+It can be seen as the endpoint of two-way communication commonly used in client-server application.
+A socket that can be created by linking the IP number of a system with a software port number where IP number and port numbers are seperated by a 
