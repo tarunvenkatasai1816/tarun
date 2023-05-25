@@ -41,4 +41,13 @@ ________________________________________________________________________________
 
 What is DHCP in Networking?
 
+DHCP stands for Dynamic Host Configuration Protocol.
+It is a network protocol used an IP address to automate the process of configuring devices and allow for seemless communication on the network.
+A DHCP server automatically assign IP addresses to each host on the network, thus allowing them to use the services such as SNS and many other communication protocols to communicate with other endpoints.
+Using DHCP, IP conflicts are reduced and it is easy to change adresses or endpoints.
 
+
+______________________________________________________________________________________________________
+
+
+What is socket in Networking?
