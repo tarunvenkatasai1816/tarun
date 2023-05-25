@@ -55,3 +55,33 @@ What is socket in Networking?
 A socket is a software structure that allows for communication between two or more programs on the same or different machines within a network node.
 It can be seen as the endpoint of two-way communication commonly used in client-server application.
 A socket that can be created by linking the IP number of a system with a software port number where IP number and port numbers are seperated by a 
+
+
+_______________________________________________________________________________________________________
+
+
+What are the HTTP & the HTTPS protocol?
+
+HTTP is the Hyper Text Transfer Protocol which defined the set of rules and standards on how the information can be transmitted on the World Wide Web.
+It helps the web browsers and web servers for communication.
+It is a stateless protocol where each command is independent with respect to the previous command.
+HTTP is an application layer protocol built upon the TCP, it used by by default port 80.
+HTTPS is the Hyper Text Transfer Protocol Secure.
+It is an advanced and secured version of HTTP.
+It enables secure transactions by encrypting the communication ans also help identify network servers securely.
+It uses port 443 by default.
+
+
+_______________________________________________________________________________________________________
+
+
+What is the SMTP Protocol?
+
+SMTP is the Simple Mail Transfer Protocol.
+SMTP set the rules for communication between servers. This set of rules help the software to transmit emails over the internt.
+It supports the both end-end and store-and-forward methods.
+It is always listening mode on port 25.
+It always works with pop3-Post office protocol-helps clients synchronize mails.
+
+________________________________________________________________________________________________________
+
